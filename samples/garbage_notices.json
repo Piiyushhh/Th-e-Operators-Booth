@@ -1,0 +1,18 @@
+[
+  {
+    "description": "Random lorem ipsum garbage",
+    "notice": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  },
+  {
+    "description": "Random numbers and symbols",
+    "notice": "###$$$ @@@ ??? 999 111 $$$ %%%"
+  },
+  {
+    "description": "Short fragment",
+    "notice": "hello"
+  },
+  {
+    "description": "Irrelevant weather message",
+    "notice": "Today temperature in Pune is 28 degrees Celsius with sunny skies."
+  }
+]

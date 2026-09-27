@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Missing train number - Station and time present but no train number",
+    "notice": "Express train arriving at PUNE station at 14:30 hrs is running late by 45 mins due to signal failure"
+  },
+  {
+    "description": "Missing station - Train 12158 and time 14:30 present but no station code or name",
+    "notice": "Train 12158 Hutatma Express is delayed by 45 mins. Expected arrival 14:30 hrs due to signal failure."
+  },
+  {
+    "description": "Missing expected time - Train 12158 and station PUNE present but no arrival/expected time",
+    "notice": "Train 12158 Hutatma Express reaching PUNE station is indefinitely delayed due to derailment."
+  },
+  {
+    "description": "Marathi missing train number",
+    "notice": "पुणे स्थानकावर १४:३० वाजता गाडी येईल. सिग्नल बिघाडामुळे उशीर."
+  },
+  {
+    "description": "Hindi missing station code or name",
+    "notice": "गाड़ी संख्या 12158 14:30 बजे पहुंचेगी। कारण: भारी बारिश।"
+  }
+]

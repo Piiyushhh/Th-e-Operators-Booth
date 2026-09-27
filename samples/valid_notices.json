@@ -1,0 +1,54 @@
+[
+  {
+    "description": "English - Hutatma Express with station code, expected time, delay minutes, and reason",
+    "notice": "Train 12158 Pune - Solapur Hutatma Exp expected at PUNE station at 14:30 hrs (delayed by 45 mins due to signal failure at Daund)"
+  },
+  {
+    "description": "English - Deccan Queen arriving CSMT with 30m delay and track maintenance",
+    "notice": "12124 (Deccan Queen) arriving CSMT expected 18:45, delay 30m reason: track maintenance"
+  },
+  {
+    "description": "English - Konark Express rescheduled at Lonavala with technical issue",
+    "notice": "Notice: Exp 11019 Konark Express rescheduled at LNL station. Expected arrival: 06:15. Reason: technical issue."
+  },
+  {
+    "description": "English - Indrayani Express at Kalyan due to power outage",
+    "notice": "Trn# 22105 Indrayani Exp delayed. Station: KYN. New time: 10:15 hrs. Due to power outage"
+  },
+  {
+    "description": "English - Special Train with fog cause at Manmad",
+    "notice": "Train No: 01104, Stn: MMR, Exp Time: 21:00, Delay: 1 hr 15 min, Cause: fog condition"
+  },
+  {
+    "description": "English - Daund Junction delay with heavy rain",
+    "notice": "Train 11301 Udyan Express at DAUND JN expected at 12:45. Delayed by 2 hours due to heavy rain."
+  },
+  {
+    "description": "Marathi - Hutatma Express in Marathi with Devanagari numerals",
+    "notice": "गाडी क्र. १२१५८ हुतात्मा एक्सप्रेस पुणे (PUNE) स्थानकावर १४:३० वाजता अपेक्षित आहे. कारण: सिग्नल बिघाड (उशीर ४५ मिनिटे)"
+  },
+  {
+    "description": "Marathi - Deccan Queen CSMT arrival in Marathi",
+    "notice": "गाडी क्र. १२१२४ डेक्कन क्वीन CSMT येथे १८:४५ वाजता येईल. उशीर: ३० मिनिटे, कारण: ट्रॅक दुरुस्ती"
+  },
+  {
+    "description": "Marathi - Konark Express at Lonavala with waterlogging",
+    "notice": "सूचना: ट्रेन ११०१९ लोणावळा (LNL) येथे अपेक्षित वेळ ०६:१५. कारण: पावसामुळे पाणी साचले"
+  },
+  {
+    "description": "Marathi - Indrayani Express at Kalyan with engine failure",
+    "notice": "गाडी २२१०५ कल्याण (KYN) स्थानकावर १०:१५ वाजता अपेक्षित. कारण: इंजिन बिघाड"
+  },
+  {
+    "description": "Hindi - Hutatma Express in Hindi at Pune",
+    "notice": "गाड़ी संख्या 12158 हुतात्मा एक्सप्रेस पुणे (PUNE) स्टेशन पर 14:30 बजे पहुंचेगी। देरी: 45 मिनट, कारण: सिग्नल खराबी"
+  },
+  {
+    "description": "Hindi - Konark Express at LNL with technical fault",
+    "notice": "ट्रेन नंबर 11019 कोणार्क एक्सप्रेस LNL स्टेशन पर 06:15 बजे अपेक्षित। कारण: तकनीकी खराबी"
+  },
+  {
+    "description": "Hindi - Train at Kalyan with heavy rain",
+    "notice": "ट्रेन 22105 KYN स्टेशन पर 10:15 बजे पहुंचेगी। भारी बारिश के कारण 1 घंटा देरी"
+  }
+]
